@@ -7,10 +7,10 @@ Is mean petal length different among Iris setosa, versicolor, and virginica?
 The classic Iris dataset was loaded with `sklearn.datasets.load_iris`. The primary outcome was petal length (cm); species was the grouping variable. The preregistered primary test was one-way ANOVA.
 
 ## Data validation
-- Rows before filtering: [fill from notebook]
-- Rows included: [fill from notebook]
-- Missing required values: [fill from notebook]
-- Exact duplicate rows: [fill from notebook]
+- Rows before filtering: 150
+- Rows included: 150
+- Missing required values: 0
+- Exact duplicate rows: 1
 
 ## Descriptive statistics
 [Paste the summary table from the notebook.]
